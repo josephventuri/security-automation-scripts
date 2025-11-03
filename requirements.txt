@@ -1,0 +1,26 @@
+# Security Automation Scripts - Python Dependencies
+
+# Core utilities
+requests>=2.28.0
+python-dotenv>=0.20.0
+
+# Data analysis and manipulation
+pandas>=1.5.0
+
+# Network and domain analysis
+dnspython>=2.2.0
+python-whois>=0.8.0
+
+# Email parsing
+email-validator>=1.2.0
+
+# Command-line interfaces
+argparse>=1.4.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Code quality
+black>=22.0.0
+flake8>=5.0.0
